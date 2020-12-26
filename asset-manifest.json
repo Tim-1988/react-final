@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-final/static/css/main.260948ef.chunk.css",
+    "main.js": "/react-final/static/js/main.0b01afaf.chunk.js",
+    "main.js.map": "/react-final/static/js/main.0b01afaf.chunk.js.map",
+    "runtime-main.js": "/react-final/static/js/runtime-main.887c830f.js",
+    "runtime-main.js.map": "/react-final/static/js/runtime-main.887c830f.js.map",
+    "static/js/2.80669bcc.chunk.js": "/react-final/static/js/2.80669bcc.chunk.js",
+    "static/js/2.80669bcc.chunk.js.map": "/react-final/static/js/2.80669bcc.chunk.js.map",
+    "static/js/3.ce091dcf.chunk.js": "/react-final/static/js/3.ce091dcf.chunk.js",
+    "static/js/3.ce091dcf.chunk.js.map": "/react-final/static/js/3.ce091dcf.chunk.js.map",
+    "index.html": "/react-final/index.html",
+    "static/css/main.260948ef.chunk.css.map": "/react-final/static/css/main.260948ef.chunk.css.map",
+    "static/js/2.80669bcc.chunk.js.LICENSE.txt": "/react-final/static/js/2.80669bcc.chunk.js.LICENSE.txt",
+    "static/media/Logo.91928afa.png": "/react-final/static/media/Logo.91928afa.png",
+    "static/media/galaxya71.28b092fb.jpg": "/react-final/static/media/galaxya71.28b092fb.jpg",
+    "static/media/galaxys20+.d8188291.jpg": "/react-final/static/media/galaxys20+.d8188291.jpg",
+    "static/media/iphone11.2b0147c7.jpg": "/react-final/static/media/iphone11.2b0147c7.jpg",
+    "static/media/iphone7.236451c1.jpg": "/react-final/static/media/iphone7.236451c1.jpg",
+    "static/media/slider1.cdf50640.jpg": "/react-final/static/media/slider1.cdf50640.jpg",
+    "static/media/slider2.0213232e.jpg": "/react-final/static/media/slider2.0213232e.jpg",
+    "static/media/slider3.d3d831e2.jpg": "/react-final/static/media/slider3.d3d831e2.jpg",
+    "static/media/slider4.7696b811.jpg": "/react-final/static/media/slider4.7696b811.jpg",
+    "static/media/slider5.6ddf9297.jpg": "/react-final/static/media/slider5.6ddf9297.jpg",
+    "static/media/slider6.156ad072.jpg": "/react-final/static/media/slider6.156ad072.jpg",
+    "static/media/slider7.42dc2c03.jpg": "/react-final/static/media/slider7.42dc2c03.jpg",
+    "static/media/slider8.5ad0db02.jpg": "/react-final/static/media/slider8.5ad0db02.jpg",
+    "static/media/slider9.ada99270.jpg": "/react-final/static/media/slider9.ada99270.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.887c830f.js",
+    "static/js/2.80669bcc.chunk.js",
+    "static/css/main.260948ef.chunk.css",
+    "static/js/main.0b01afaf.chunk.js"
+  ]
+}
