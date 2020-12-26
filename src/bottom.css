@@ -1,0 +1,60 @@
+.bottom-list{
+display: flex;
+}
+
+.delivery{
+    height: 200px;
+    width: 400px;
+    background-color: darkred;
+    color: white;
+    cursor: pointer;
+}
+
+.repair{
+    height: 200px;
+    width: 400px;
+    background-color: orangered;
+    color: white;
+    cursor: pointer;
+}
+
+.vk{
+    height: 200px;
+    width: 200px;
+    background-color: darkblue;
+    color: white;
+    cursor: pointer;
+}
+
+.insta{
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+    color: white;
+    cursor: pointer;
+}
+
+.fb{
+    height: 200px;
+    width: 200px;
+    background-color: darkgreen;
+    color: white;
+    cursor: pointer;
+}
+
+.location{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.text{
+    position: relative;
+    top: 35%;
+}
+
+.map{
+    height: 200px;
+}
